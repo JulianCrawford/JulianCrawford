@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julian, an <a href="https://github.com/JulianCrawford">IT Professional</a>, 👋
+<h1>Hi, I'm Julian, an <a href="https://github.com/JulianCrawford">IT Professional</a> 👋
 
   <h2> 👨‍💻 Information Technology Projects:</h2>
   
