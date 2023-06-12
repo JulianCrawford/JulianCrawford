@@ -10,15 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
   
-<h2> 👨‍💻 Content Creations:</h2>
-  
-  - <b>Video Editing</b>
-    - [Wondershare Creative(Filmora12)]
-    - [Social Media(Facebook,Instagram,Twitter,Tiktok)]
-    - [Adobe(Photoshop,Lightroom)]
-  - <b>Broadcasting</b>
-    - [Open Broadcasting Software(OBS,Streamlabs,Restream)]
-    - [Streaming Platforms(Facebook,Twitch,Youtube)]
 
   
   
