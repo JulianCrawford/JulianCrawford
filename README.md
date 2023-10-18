@@ -14,11 +14,3 @@
   
   
   <h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JulianCrawford | Linktree" width="22px" src="https://cdn.icon-icons.com/icons2/3912/PNG/512/linktree_logo_icon_247832.png" />][Linktree]
-
-
-
-
-[linkedin]:  https://www.linkedin.com/in/julian-crawford-0790a11a3/
