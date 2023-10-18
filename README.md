@@ -20,5 +20,5 @@
 
 
 
-[Linktree]: https://linktr.ee/josephdonjulio
+
 [linkedin]:  https://www.linkedin.com/in/julian-crawford-0790a11a3/
