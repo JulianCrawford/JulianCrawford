@@ -15,7 +15,7 @@
   
   <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JulianCrawford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="JulianCrawford | Linktree" width="22px" src="https://cdn.icon-icons.com/icons2/3912/PNG/512/linktree_logo_icon_247832.png" />][Linktree]
 
 
