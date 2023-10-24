@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JulianCrawford/os-Ticket-post-Installation)
   - [osTicket: Ticket Examples]
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JulianCrawford/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
   
 
