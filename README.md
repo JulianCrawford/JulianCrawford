@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 
 - <b>Virtual Private Network</b>
-  - Setting Up A Virutal Private Network
+  - Setting Up A Virtual Private Network
   
 <h2>🤳Connect with me:</h2>
 
